@@ -1,5 +1,5 @@
 #!/bin/bash
-
+cd ~/.local/share/MSTK/
 echo "1) AutoUpdater"
 echo "2) Server Creator"
 echo "3) Server Updater"
